@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Subhadip Garanchi — Software Developer</title>
+<desc id="desc">A dark, modern developer banner with a code-inspired visual identity.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset=".55" stop-color="#15152d"/><stop offset="1" stop-color="#101b2c"/></linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  <radialGradient id="orb"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".35"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".08" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/><rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<circle cx="1020" cy="65" r="300" fill="url(#orb)"/><path d="M0 300 Q240 230 480 300 T960 280 T1200 300V360H0Z" fill="#0b1220" opacity=".55"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" opacity=".22" fill="#a5b4fc"><text x="790" y="95" font-size="17">const developer = {</text><text x="825" y="127" font-size="17">build: true,</text><text x="825" y="159" font-size="17">learn: "always",</text><text x="825" y="191" font-size="17">solve: "problems"</text><text x="790" y="223" font-size="17">};</text></g>
+<g transform="translate(72 78)"><rect x="0" y="0" width="5" height="170" rx="2.5" fill="url(#glow)"/>
+<text x="34" y="22" fill="#a5b4fc" font-family="ui-monospace, monospace" font-size="15" letter-spacing="3">HELLO, WORLD</text>
+<text x="34" y="82" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700">Subhadip Garanchi</text>
+<text x="34" y="119" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="22">Software Developer</text>
+<text x="34" y="158" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="16">React.js  ·  JavaScript  ·  C++  ·  DSA</text>
+</g>
+<g transform="translate(790 270)"><rect width="335" height="42" rx="21" fill="#1e293b" stroke="#475569" stroke-opacity=".7"/><circle cx="22" cy="21" r="5" fill="#34d399"/><text x="40" y="27" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="14">Building • Learning • Improving</text></g>
+<circle cx="1120" cy="55" r="3" fill="#67e8f9"/><circle cx="1160" cy="95" r="2" fill="#a78bfa"/><circle cx="740" cy="300" r="3" fill="#a78bfa"/>
+</svg>
